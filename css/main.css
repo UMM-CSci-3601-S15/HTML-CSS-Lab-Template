@@ -1,6 +1,32 @@
-h2 {
-    color: red;
+.navBar {
+    background-color: #218C8D;
+}
+floating {
+    float: right
+}
+
+body {
+    background-color: #8EDC9D;
+}
+
+h3 {
+    color: #404040;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+h1 {
+    color: #856798;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+a {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #ff6600;
+}
+
+a:hover {
+    color: #F9E559;
 }
 
 p {
@@ -16,4 +42,9 @@ img {
 
 .centerText {
     text-align: center;
+}
+
+divbody {
+    border: 2px solid;
+    border-radius: 25px;
 }
